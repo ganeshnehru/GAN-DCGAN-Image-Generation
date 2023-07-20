@@ -61,13 +61,8 @@ Note: The network was trained on the free Google Colab tier.
 ## Instructions
 Follow the steps below to execute the project:
 
-1. **Install necessary dependencies:**
-   - NumPy: v.1.22.4
-   - Python: v.3
-   - Matplotlib: v.3.7.1
-   - PyTorch: v.2
-   - Tensorboard: v.1.6
-
+1. **Install necessary dependencies.**
+   
 2. **Move the files onto a separate folder.**
 
 3. **Open the terminal, and switch to the correct Conda environment.**

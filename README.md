@@ -67,9 +67,7 @@ Follow the steps below to execute the project:
 
 3. **Open the terminal, and switch to the correct Conda environment.**
 
-4. **To execute the program, `cd` into the project folder on your terminal, then type:**
-   ```
-   python <name of the file>.py
-   ```
+4. **To run the program, open the .ipynb files using Jupyter Notebook or Google Colab and execute each cell.**
+
 
    Note: The execution takes approximately ~20 minutes on a GPU (more on a CPU). After the execution, you will be able to use Tensorboard to visualize the intermediate training results, which showcase the learning curve of the Generative Adversarial Network.
